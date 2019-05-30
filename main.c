@@ -2,7 +2,6 @@
 #include<stdbool.h>
 
 
-//sygnatury funkcji
 void delete_comments(FILE *, FILE*);
 void skip_star( FILE * );
 void skip_slash(FILE * ,FILE *);
